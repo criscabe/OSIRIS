@@ -6,7 +6,9 @@ This software was created by C. Cabello as part of her thesis work, developed un
 
 The program is first mentioned in Paliya et al. 2020 (see https://ui.adsabs.harvard.edu/abs/2020ApJ...903L...8P/abstract) and Cabello, C. - PhD Thesis 2023.
 
-Maintainer: Cristina Cabello, criscabe@ucm.es Webpage (source): https://github.com/criscabe/OSIRIS
+Maintainer: Cristina Cabello, criscabe@ucm.es 
+
+Webpage (source): https://github.com/criscabe/OSIRIS
 
 
 <br/><br/>
