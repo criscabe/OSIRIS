@@ -13,5 +13,5 @@ Maintainer: Cristina Cabello, criscabe@ucm.es Webpage (source): https://github.c
 
 
 <p align="center">
-<img src="images/OSIRIS_pic.png" width="55%"></a>
+<img src="images/OSIRIS_pic.png" width="60%"></a>
 </p>
